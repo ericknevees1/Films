@@ -1,0 +1,48 @@
+Criando react Desenvolvimento front:
+*Tipos:
+1 - react js;
+2- react native
+
+*Ferramenta:
+-Next.js
+
+*Comando:
+
+1- npx create-next-app@latest
+
+2- atualizar o npm "npm i -g npm"
+
+3- Ctrl + shift + p - easy snippet
+
+4- cmd vscode: "npm run dev"
+
+
+
+Processo:
+
+1- Abrir pasta no cmd:
+
+I) Abrir o cmd, digitar nele "desktop" e digitar o nome
+da pasta.
+
+II) abir o explorador de arquivo, abrir a pasta desejada,
+ir na barra de busca e digitar "CMD".
+
+
+2- Criar um novo progeto:
+
+I) No cmd digitar o comando 1
+II) Escreva o nome do projeto e enter
+III) sequencia:
+N,
+N,
+N,
+Y,
+Y,
+N.
+
+3- executar o projeto:
+I) npm run dev
+II)comando cmd: code "nome do arquivo"
+
+
